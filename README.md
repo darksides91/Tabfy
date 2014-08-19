@@ -10,12 +10,16 @@ I'am a f*****ing noob in javascript so be nice (even if you see something really
 
 I know it's not the ULTIMATE plugin that you waited for but, i just wanted to try to write a jquery plugin (first time be cool :) ).
 
-I do not want to rivalise with bootstrap, i done this for fun and improve my skill so feel free to comment and improve my code ! 
+I do not want to rivalise with bootstrap, i done this for fun and to improve my skill so feel free to comment and improve my code ! 
+
+ps: English is not my first language so I apologize in advance
 
 Information :
 -----------
 
 I have take the decision of using URL Hash, maybe not the best way but i like the fact that we can see which tab is open in the URL (and i wanted to try event trigger).
+
+This is GPL v3, so use it modify it, etc ...
 
 Tutorial
 ========
