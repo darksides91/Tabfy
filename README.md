@@ -25,5 +25,11 @@ Tab Content
   <p>Marvelous content</p>
 </section>
 <section id="tab2" class="grid_stuff....">
+  <p>Marvelous content</p>
 </section>
 ```
+
+IF you uses CSS transition :
+==
+
+
