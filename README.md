@@ -30,6 +30,12 @@ Tab Content
 ```
 
 IF you uses CSS transition :
-==
-
-
+```Javascript
+$(window).tabfy({
+  'useCSS': true
+});
+```
+ELSE use jQuery slide UP/DOWN
+```Javascript
+$(window).tabfy();
+```
